@@ -1,0 +1,20 @@
+a:visited {
+    color: white;
+    background-color: black;
+}
+a {
+    color: black;
+    background-color: white;
+}
+
+span.bold {
+    font-weight: bold;
+}
+
+span.italics {
+    font-style: oblique;
+}
+
+span.under {
+    text-decoration: underline;
+}
