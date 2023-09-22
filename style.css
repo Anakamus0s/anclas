@@ -18,3 +18,7 @@ span.italics {
 span.under {
     text-decoration: underline;
 }
+
+html {
+    scroll-behavior: smooth;
+}
